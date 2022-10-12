@@ -14,14 +14,14 @@ How to use this repository
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
 | 1     | GIT   | [COMMAND LINE](./0-Git/GIT-001-COMMANDLINE/ )            | NA          |
-| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |https://github.com/abhi5956/Assignment/tree/main/0-Git/GIT-002-GIT-PRACTICE             |
-| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |https://github.com/abhi5956/Assignment/tree/main/0-Git/GIT-002-GIT-PRACTICE             |
+| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |https://github.com/abhi5956/Assignment/0-Git/GIT-002-GIT-PRACTICE             |
+| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |https://abhi5956.github.io/Assignment/0-Git/GIT-002-GIT-PRACTICE/             |
 
 # JS Basics
 
 | S No. | Topic     | Assignment                                | FreeCodeCamp Id | Question Done Till Now |
 | ----- | --------- | ----------------------------------------- | --------------- | --------------- |
-| 1     | JS Basics | [JS BASIC Question List](./1-JS-BASICS/) |                 |                 |
+| 1     | JS Basics | [JS BASIC Question List](./1-JS-BASICS/) |@fcca006bd80-9b40-4cdf-9c8f-1cdc30b3349e                |                 |
 
 # HTML
 
