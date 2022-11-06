@@ -12,5 +12,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    border: black;
+        border-width: 0.25em;
+        border-style: solid;
     
 }
